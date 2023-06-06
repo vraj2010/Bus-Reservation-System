@@ -11,13 +11,9 @@ What is Bus Reservation System?
 
 
 Features of Bus Reservation System
-
 • There are no admin rights given, anyone can handle this project.
-
 • In this project anyone can add buses and do the reservation.
-
 • The passenger can book the bus only if bus is available.
-
 • Passengers will be able to check the availability of seats of particular bus, whether seats are reserved or not.
 
 
